@@ -1,2 +1,3 @@
-# Data_Science_For_Social_Sciences
+# DATA SCIENCE FOR SOCIAL SCIENCES
 by Görkem SAYLAM
+v1.0.0
